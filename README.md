@@ -10,6 +10,7 @@ Options:
 
 
 Instructions:
+
 1. Go to CS_Executer.cs
 2. Declare a string array and add every string existing in keywords array (the one in English).
 3. Change or add your keywords to the dictionary:
