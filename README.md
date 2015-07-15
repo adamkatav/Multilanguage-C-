@@ -1,13 +1,14 @@
 # Multilanguage-C-
 Parse C# from any language you want!
 
+Options:
 1. You can write the entire .cs file or just Main().
 2. CS_Executer.Run(string code) is a function that execute the text in CodeTextBox as is.
 3. CS_Executer.RunFunc(string code) is a function that execute the text in CodeTextBox as if it was in Main(). Save you time.
 4. CS_Executer.Dic() mapps the keywords.
 
 
-
+Instructions:
 1. Go to CS_Executer.cs
 2. Declare a string array and add every string existing in keywords array (the one in English).
 3. Change or add your keywords to the dictionary:
