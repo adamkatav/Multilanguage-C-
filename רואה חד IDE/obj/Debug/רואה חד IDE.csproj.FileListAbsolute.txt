@@ -1,0 +1,9 @@
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\bin\Debug\רואה חד IDE.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\bin\Debug\רואה חד IDE.exe
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\bin\Debug\רואה חד IDE.pdb
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה חד IDE.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה_חד_IDE.Form1.resources
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה_חד_IDE.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה חד IDE.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה חד IDE.exe
+c:\users\adam\documents\visual studio 2013\Projects\רואה חד IDE\רואה חד IDE\obj\Debug\רואה חד IDE.pdb
