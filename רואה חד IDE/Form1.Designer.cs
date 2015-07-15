@@ -38,6 +38,7 @@
             this.Class = new System.Windows.Forms.TextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
+            this.LtoR = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // CodeTextBox
@@ -253,11 +254,23 @@
             this.listBox1.Sorted = true;
             this.listBox1.TabIndex = 9;
             // 
+            // LtoR
+            // 
+            this.LtoR.AutoSize = true;
+            this.LtoR.Location = new System.Drawing.Point(571, 43);
+            this.LtoR.Name = "LtoR";
+            this.LtoR.Size = new System.Drawing.Size(89, 17);
+            this.LtoR.TabIndex = 10;
+            this.LtoR.Text = "שמאל לימין";
+            this.LtoR.UseVisualStyleBackColor = true;
+            this.LtoR.CheckedChanged += new System.EventHandler(this.LtoR_CheckedChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(790, 644);
+            this.Controls.Add(this.LtoR);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.Class);
@@ -288,6 +301,7 @@
         private System.Windows.Forms.TextBox Class;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.CheckBox LtoR;
     }
 }
 

@@ -56,5 +56,13 @@ namespace רואה_חד_IDE
         {
 
         }
+
+        private void LtoR_CheckedChanged(object sender, EventArgs e)
+        {
+            if(LtoR.Checked)
+            CodeTextBox.RightToLeft = RightToLeft.No;
+            else
+                CodeTextBox.RightToLeft = RightToLeft.Yes;
+        }
     }
 }
